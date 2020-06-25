@@ -1,6 +1,6 @@
 [submodule "Sources/OpenXcom"]
 	path = Sources/OpenXcom
-	url = https://github.com/MeridianOXC/OpenXcom
+	url = https://github.com/daedalia/OpenXcom
 	branch = ios
 [submodule "Sources/yaml-cpp"]
 	path = Sources/yaml-cpp
